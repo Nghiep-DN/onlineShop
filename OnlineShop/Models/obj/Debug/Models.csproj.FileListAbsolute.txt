@@ -1,0 +1,12 @@
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\bin\Debug\Models.dll.config
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\bin\Debug\Models.dll
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\bin\Debug\Models.pdb
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\bin\Debug\EntityFramework.dll
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\bin\Debug\EntityFramework.xml
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\obj\Debug\Models.csproj.CopyComplete
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\obj\Debug\Models.dll
+E:\Devmaster\Dev_Backend\ASP.NET\TEDU\OnlineShop\Models\obj\Debug\Models.pdb
